@@ -18,10 +18,10 @@ compara3 = not A == B and not B < C
 print(compara3)
 
 # (Verdadeiro e Falso)
-comparacao1 and comparacao2
+compara and compara2
 
 # Verdadeiro ou Verdadeiro
-comparacao1 or comparacao2
+compara2 or compara3
 
 a = 2
 b = 3
