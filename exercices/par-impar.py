@@ -1,5 +1,5 @@
 """
-LOM - EXERCICIO - PAR OU IMPAR 
+Luiz Otavio Miranda - EXERCICIO - PAR OU IMPAR 
 
 Faça um programa que peça ao usuário para digitar um número inteiro,
 informe se este número é par ou ímpar. Caso o usuário não digite um número 
